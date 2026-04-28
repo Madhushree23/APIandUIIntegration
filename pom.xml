@@ -69,11 +69,7 @@
             <version>2.0.13</version>
         </dependency>
 
-        <dependency>
-        	<groupId>Cucumber</groupId>
-        	<artifactId>DemJenkins</artifactId>
-        	<version>0.0.1-SNAPSHOT</version>
-        </dependency>
+        
     </dependencies>
 
     <build>
