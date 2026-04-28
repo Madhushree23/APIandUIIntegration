@@ -11,8 +11,7 @@ import pojo.User;
 import services.UserService;
 import testdata.TestDataFactory;
 import utils.ConfigReader;
-import utils.TestListners;
-@Listeners(TestListners.class)
+@Listeners(utils.TestListners.class)
 public class IntegrationTest extends BaseTest {
 	
 	

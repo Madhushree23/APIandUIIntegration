@@ -3,7 +3,7 @@
 <suite name="Suite">
 
     <listeners>
-        <listener class-name="listeners.TestListener"/>
+        <listener class-name="utils.TestListners"/>
     </listeners>
 
     <test name="Tests">
@@ -11,7 +11,5 @@
             <class name="test.IntegrationTest"/>
         </classes>
     </test>
-<listeners>
-    <listener class-name="listeners.TestListener"/>
-</listeners>
+
 </suite>
