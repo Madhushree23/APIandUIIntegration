@@ -2,7 +2,7 @@ package factory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//this is factory
+//this is factory  class
 public class DriverFactory {
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
