@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-26T15:59:56 IST" name="Default suite" finished-at="2026-04-26T16:00:19 IST" duration-ms="23487">
+    <groups>
+    </groups>
+    <test started-at="2026-04-26T15:59:56 IST" name="Default test" finished-at="2026-04-26T16:00:19 IST" duration-ms="23487">
+      <class name="test.IntegrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.IntegrationTest@3f191845]" started-at="2026-04-26T15:59:56 IST" name="setup" finished-at="2026-04-26T16:00:00 IST" duration-ms="4404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fullFlowTest()[pri:0, instance:test.IntegrationTest@3f191845]" started-at="2026-04-26T16:00:00 IST" name="fullFlowTest" finished-at="2026-04-26T16:00:18 IST" duration-ms="17694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullFlowTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.IntegrationTest@3f191845]" started-at="2026-04-26T16:00:18 IST" name="tearDown" finished-at="2026-04-26T16:00:19 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.IntegrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
